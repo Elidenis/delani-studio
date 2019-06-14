@@ -22,6 +22,12 @@ Eli Denis
     2 Ensure you are connected to the internet.
 
 ---
+## BDD
+| Behavior Our program should handle             | Input Example When it Receives | Output Example When it Receives     |
+|------------------------------------------------|--------------------------------|-------------------------------------|
+| User enters invalid name and email in the form | emiail: cvbnn name: ki         | name and email invalid              |
+| User enters valid mail and email in the form   | email: abc@gmail.com name: eli | name and email valid                |
+| User enters text in the message text area      | Hello form submitted           | Thank you for submitting your form. |
 
 #### Technologies Used
     1 HTML
